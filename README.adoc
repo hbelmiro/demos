@@ -24,6 +24,8 @@
 
 ==== https://github.com/hbelmiro/quarkus-extension-cdi-demo[Quarkus Extension CDI]
 
+==== https://github.com/hbelmiro/quarkus-extension-jax-rs-download-file-demo[Download a file - Extension Providing the Resource Class]
+
 == Vert.x
 
 === https://github.com/hbelmiro/vertx-download-file-demo[Download a file]
