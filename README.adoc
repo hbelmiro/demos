@@ -26,6 +26,10 @@
 
 ==== https://github.com/hbelmiro/quarkus-extension-jax-rs-download-file-demo[Download a file - Extension Providing the Resource Class]
 
+=== Security
+
+==== https://github.com/hbelmiro/quarkus-basic-auth-properties-demo[Basic Authentication with Properties in Quarkus]
+
 == Vert.x
 
 === https://github.com/hbelmiro/vertx-download-file-demo[Download a file]
