@@ -30,6 +30,13 @@
 
 ==== https://github.com/hbelmiro/quarkus-basic-auth-properties-demo[Basic Authentication with Properties in Quarkus]
 
+== Serverless Workflow
+
+=== Getting Started With Service Calls And Serverless Workflow
+
+* https://blog.kie.org/2022/05/getting-started-with-service-calls-and-serverless-workflow.html[Blog Post]
+* https://github.com/hbelmiro/getting-started-with-serverless-workflow[Repository]
+
 == Vert.x
 
 === https://github.com/hbelmiro/vertx-download-file-demo[Download a file]
