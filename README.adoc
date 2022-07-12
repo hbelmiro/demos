@@ -1,5 +1,9 @@
 = Demos
 
+== Jakarta Bean Validations
+
+=== https://github.com/hbelmiro/classlevel-bean-validations-demo[Class-level bean validation]
+
 == JAX-RS
 
 === https://github.com/hbelmiro/jax-rs-download-file-demo[Download a file]
