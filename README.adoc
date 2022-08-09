@@ -6,7 +6,11 @@
 
 == JAX-RS
 
-=== https://github.com/hbelmiro/jax-rs-download-file-demo[Download a file]
+=== https://github.com/hbelmiro/jax-rs-download-file-demo[Downloading a file]
+
+== Knative
+
+=== https://github.com/hbelmiro/knative-serving-quarkus-demo[Serving a Java application on Knative with Quarkus]
 
 == MicroProfile
 
