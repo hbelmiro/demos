@@ -10,7 +10,11 @@
 
 == Knative
 
-=== https://github.com/hbelmiro/knative-serving-quarkus-demo[Serving a Java application on Knative with Quarkus]
+=== Creating your first cloud-agnostic serverless application with Java
+
+* https://blog.kie.org/2022/09/creating-your-first-cloud-agnostic-serverless-application-with-java.html[Article]
+
+* https://github.com/hbelmiro/knative-serving-quarkus-demo[Repository]
 
 == MicroProfile
 
@@ -42,7 +46,7 @@
 
 === Getting Started With Service Calls And Serverless Workflow
 
-* https://blog.kie.org/2022/05/getting-started-with-service-calls-and-serverless-workflow.html[Blog Post]
+* https://blog.kie.org/2022/05/getting-started-with-service-calls-and-serverless-workflow.html[Article]
 * https://github.com/hbelmiro/getting-started-with-serverless-workflow[Repository]
 
 == Vert.x
