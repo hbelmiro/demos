@@ -52,3 +52,7 @@
 == Vert.x
 
 === https://github.com/hbelmiro/vertx-download-file-demo[Download a file]
+
+== WireMock
+
+=== https://github.com/hbelmiro/wiremock-response-templating-demo[Response Templating - Creating a stub that depends on the request]
