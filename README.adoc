@@ -1,5 +1,11 @@
 = Demos
 
+== Artificial Intelligence
+
+=== Machine Learning
+
+==== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
+
 == Java
 
 === Jakarta Bean Validations
