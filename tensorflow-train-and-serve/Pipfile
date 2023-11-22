@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 tensorflow = "*"
 numpy = "*"
-jupyter = "*"
 keras = "*"
 tensorflow-serving-api = "==2.8.0"
 
