@@ -23,7 +23,7 @@ public interface BlogReaderService {
     String sendBody(String html);
 
     @UserMessage("""
-                That's it. You can sum up the article now.
+                That's it. You can sum up the article now. Stay quiet. Return only the sum up and the key takeaways.
             """)
     String sumUp();
 }

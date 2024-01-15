@@ -34,7 +34,7 @@ public class BlogReaderResource {
     public String read(String url) {
         String content = webCrawler.crawl(url);
 
-        LOGGER.info("\uD83D\uDD1C Preparing analysis of {}...", url);
+        LOGGER.info("\uD83D\uDD1C Preparing analysis of {}", url);
 
         blogReaderService.prepare();
 
