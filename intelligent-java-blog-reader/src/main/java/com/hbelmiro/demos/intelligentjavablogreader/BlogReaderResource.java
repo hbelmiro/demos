@@ -27,7 +27,6 @@ public class BlogReaderResource {
         this.requestSplitter = requestSplitter;
     }
 
-
     @Path("/read")
     @POST
     @Produces(MediaType.TEXT_PLAIN)

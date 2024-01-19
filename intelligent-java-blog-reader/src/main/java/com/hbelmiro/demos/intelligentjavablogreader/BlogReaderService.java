@@ -16,14 +16,14 @@ public interface BlogReaderService {
     @UserMessage("""
                 Here's the next part of the body page:
                 ```html
-                {html}.
+                {html}
                 ```
                 Wait for the next parts. Don't answer anything else.
             """)
     String sendBody(String html);
 
     @UserMessage("""
-                That's it. You can sum up the article now. Stay quiet. Return only the sum up and the key takeaways.
+                That's it. You can sum up the article and add key takeaways to the end of the sum up.
             """)
     String sumUp();
 }

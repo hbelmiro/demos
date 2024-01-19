@@ -18,6 +18,6 @@ class BlogReaderResourceTest {
     @Test
     void test() {
         var blogReaderResource = new BlogReaderResource(new FakeBlogReaderService(), webCrawler, requestSplitter);
-        assertEquals("MockGPT", blogReaderResource.read("https://thegreatapi.com/blog/a-beginners-guide-to-contributing-to-open-source/"));
+        assertEquals("MockGPT", blogReaderResource.read("https://www.redhat.com/en/blog/the-power-of-ai-is-open"));
     }
 }
