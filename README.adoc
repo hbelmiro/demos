@@ -6,6 +6,8 @@
 
 ==== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
 
+==== https://github.com/hbelmiro/demos/tree/main/ollama-openshift[Deploying Ollama to OpenShift]
+
 == Java
 
 === Jakarta Bean Validations
