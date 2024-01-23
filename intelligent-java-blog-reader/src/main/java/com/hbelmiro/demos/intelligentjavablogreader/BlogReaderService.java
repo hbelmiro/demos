@@ -7,7 +7,7 @@ import io.quarkiverse.langchain4j.RegisterAiService;
 @RegisterAiService
 public interface BlogReaderService {
 
-    @SystemMessage("You are an assistant that receives the body of an html page and sum up the article in that page. Add key takeaways to the end of the sum up.")
+    @SystemMessage("You are an assistant that receives the body of an HTML page and sums up the article on that page. Add key takeaways to the end of the sum-up.")
     @UserMessage("""
                 The body will be sent in parts in the next requests. Don't return anything.
             """)
@@ -23,7 +23,7 @@ public interface BlogReaderService {
     String sendBody(String html);
 
     @UserMessage("""
-                That's it. You can sum up the article and add key takeaways to the end of the sum up.
+                That's it. You can sum up the article and add key takeaways to the end of the sum-up.
             """)
     String sumUp();
 }
