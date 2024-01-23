@@ -1,7 +1,3 @@
-# first-quarkus-intelligent-app
+# Intelligent Java Blog Reader
 
-```bash
-curl -X 'POST' \
-  'http://localhost:8080/read' \
-  -d 'https://thegreatapi.com/blog/a-beginners-guide-to-contributing-to-open-source/'
-```
+Read the blog-post: <link not yet available>
