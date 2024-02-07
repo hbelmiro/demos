@@ -1,14 +1,19 @@
 = Demos
 
-== Artificial Intelligence
+== Machine Learning
 
-=== Machine Learning
+=== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
 
-==== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
-
-==== https://github.com/hbelmiro/demos/tree/main/ollama-openshift[Deploying Ollama to OpenShift]
+=== https://github.com/hbelmiro/demos/tree/main/ollama-openshift[Deploying Ollama to OpenShift]
 
 == Java
+
+=== AI
+
+How to use LLMs in Java with LangChain4j and Quarkus
+
+* https://developers.redhat.com/articles/2024/01/23/how-use-llms-java-langchain4j-and-quarkus[Article]
+* https://github.com/hbelmiro/demos/tree/main/intelligent-java-blog-reader[Repository]
 
 === Jakarta Bean Validations
 
