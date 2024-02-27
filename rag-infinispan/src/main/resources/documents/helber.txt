@@ -1,0 +1,30 @@
+Helber Belmiro
+
+I help professional Java developers write maintainable software and stay up-to-date with technology by sharing my knowledge through blogs and presentations. The following repositories may be helpful to you:
+
+    https://github.com/hbelmiro/100DaysOfJava: contains code that I shared on my social media for 100 uninterrupted days
+    https://github.com/hbelmiro/demos: contains demos and tutorials related to Java and cloud-native
+
+I work as a Software Engineer at Red Hat, where I contribute mainly to the following open source projects:
+Open Data Hub
+
+    Data Science Pipelines Operator
+
+Kubeflow
+
+    https://github.com/kubeflow
+
+Quarkus OpenAPI Generator
+
+    https://github.com/quarkiverse/quarkus-openapi-generator
+
+Another open source projects that I actively contributed to in the past
+Apache KIE – Kogito
+
+    Runtimes
+    Docs
+    Examples
+
+CNCF Serverless Workflow
+
+    https://serverlessworkflow.io/
