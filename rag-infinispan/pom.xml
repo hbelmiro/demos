@@ -60,7 +60,7 @@
             <artifactId>infinispan-commons</artifactId>
             <version>${infinispan.version}</version>
         </dependency>
-         <dependency>
+        <dependency>
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-remote-query-client</artifactId>
             <version>${infinispan.version}</version>
@@ -74,6 +74,11 @@
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-query-dsl</artifactId>
             <version>${infinispan.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.10.0</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>

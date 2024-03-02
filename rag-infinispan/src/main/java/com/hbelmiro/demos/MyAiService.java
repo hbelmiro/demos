@@ -11,4 +11,9 @@ public interface MyAiService {
                 What does Helber do?
             """)
     String greet();
+
+    @UserMessage("""
+                What kind of diseases does David Brow have a chance of developing?
+            """)
+    String diabetes();
 }
