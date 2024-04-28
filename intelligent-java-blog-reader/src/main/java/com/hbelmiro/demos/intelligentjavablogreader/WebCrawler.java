@@ -18,6 +18,6 @@ class WebCrawler {
             throw new UncheckedIOException(e);
         }
 
-        return doc.body().getElementsByClass("rh-push-content-main").first().html();
+        return doc.body().getElementsByClass("rh-generic--component").first().html();
     }
 }
