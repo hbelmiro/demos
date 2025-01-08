@@ -14,7 +14,7 @@
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.version>3.17.5</quarkus.platform.version>
-        <quarkus.langchain4j.version>0.22.0</quarkus.langchain4j.version>
+        <quarkus.langchain4j.version>0.23.0</quarkus.langchain4j.version>
         <org.jsoup.version>1.18.3</org.jsoup.version>
         <com.knuddels.jtokkit.version>0.6.1</com.knuddels.jtokkit.version>
         <skipITs>true</skipITs>
