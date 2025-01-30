@@ -2,9 +2,19 @@
 
 == Machine Learning
 
-=== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
+=== Kubeflow Pipelines
 
-=== https://github.com/hbelmiro/demos/tree/main/ollama-openshift[Deploying Ollama to OpenShift]
+==== https://github.com/hbelmiro/kfp-importer-minio-demo/tree/main[Using Kubeflow Pipelines' importer for importing an artifact from MinIO]
+
+=== Open Data Hub / Red Hat OpenShift AI
+
+==== https://github.com/hbelmiro/kfp_deploy_model_to_kserve_demo[Using Data Science Pipelines to deploy a model to KServe in OpenShift AI]
+
+=== General
+
+==== https://github.com/hbelmiro/demos/tree/main/tensorflow-train-and-serve[Creating, training, and Serving your First Machine Learning Model]
+
+==== https://github.com/hbelmiro/demos/tree/main/ollama-openshift[Deploying Ollama to OpenShift]
 
 == Java
 
