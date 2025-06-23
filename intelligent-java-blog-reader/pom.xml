@@ -15,7 +15,7 @@
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.version>3.23.4</quarkus.platform.version>
         <quarkus.langchain4j.version>0.25.0</quarkus.langchain4j.version>
-        <org.jsoup.version>1.20.1</org.jsoup.version>
+        <org.jsoup.version>1.21.1</org.jsoup.version>
         <com.knuddels.jtokkit.version>0.6.1</com.knuddels.jtokkit.version>
         <skipITs>true</skipITs>
         <surefire-plugin.version>3.5.3</surefire-plugin.version>
